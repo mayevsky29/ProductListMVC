@@ -1,0 +1,35 @@
+﻿@model IEnumerable<ProductAddViewModel>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Назва</th>
+            <th scope="col">Ціна</th>
+            <th scope="col">Фото</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td>
+                    <img src="/images/@item.Images"
+                         width="150"
+                         alt="img" />
+                </td>
+                <td class="align-middle text-left"
+                    style="font-size: 30px">
+
+                    
+                </td>
+            </tr>
+        }
+
+
+    </tbody>
+</table>

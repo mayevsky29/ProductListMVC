@@ -1,0 +1,268 @@
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\appsettings.Development.json
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\appsettings.json
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\AppProductList.exe
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\AppProductList.deps.json
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\AppProductList.runtimeconfig.json
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\AppProductList.runtimeconfig.dev.json
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\AppProductList.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\ref\AppProductList.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\AppProductList.pdb
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\AppProductList.Views.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\AppProductList.Views.pdb
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.csproj.AssemblyReference.cache
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.AssemblyInfoInputs.cache
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.AssemblyInfo.cs
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.csproj.CoreCompileInputs.cache
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.RazorAssemblyInfo.cache
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.RazorAssemblyInfo.cs
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\staticwebassets\AppProductList.StaticWebAssets.Manifest.cache
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\staticwebassets\AppProductList.StaticWebAssets.xml
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\scopedcss\bundle\AppProductList.styles.css
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.TagHelpers.input.cache
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.TagHelpers.output.cache
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.RazorCoreGenerate.cache
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.RazorTargetAssemblyInfo.cache
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.RazorTargetAssemblyInfo.cs
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.Views.pdb
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\ref\AppProductList.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.pdb
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.genruntimeconfig.cache
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.csproj.CopyComplete
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\AutoMapper.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Humanizer.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Npgsql.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\libman.json
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Study\2020-2021\37. ASP.NET VPU911\Lesson 2. ByToBy JS ASP.NET MVC List product\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\appsettings.json
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\libman.json
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\AppProductList.exe
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\AppProductList.deps.json
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\AppProductList.runtimeconfig.json
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\AppProductList.runtimeconfig.dev.json
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\AppProductList.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\ref\AppProductList.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\AppProductList.pdb
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\AppProductList.Views.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\AppProductList.Views.pdb
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.csproj.AssemblyReference.cache
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.AssemblyInfoInputs.cache
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.AssemblyInfo.cs
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.csproj.CoreCompileInputs.cache
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.RazorAssemblyInfo.cache
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.RazorAssemblyInfo.cs
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\staticwebassets\AppProductList.StaticWebAssets.Manifest.cache
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\staticwebassets\AppProductList.StaticWebAssets.xml
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\scopedcss\bundle\AppProductList.styles.css
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.TagHelpers.input.cache
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.TagHelpers.output.cache
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.RazorCoreGenerate.cache
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.RazorTargetAssemblyInfo.cache
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.RazorTargetAssemblyInfo.cs
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.Views.pdb
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.csproj.CopyComplete
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\ref\AppProductList.dll
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.pdb
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\AppProductList.genruntimeconfig.cache
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\Home\_ListProducts.cshtml.g.cs
+C:\Users\Mayevsky\Desktop\AppProductList\AppProductList\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs
